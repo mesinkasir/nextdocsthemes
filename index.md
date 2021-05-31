@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+# Next JS documentation website themes template
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/nextdocsthemes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+free download source code gratis
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[test drive demo →](https://beposresto.vercel.app/)
 
-### Markdown
+[read documentation →](https://www.hockeycomputindo.com/2021/05/create-website-using-next-js-free.html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+For build modern website documentation using nestra next js framework
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+------------
 
-- Bulleted
-- List
+with light and dark mode
 
-1. Numbered
-2. List
+![free download next js website template themes gratis](https://1.bp.blogspot.com/-942LuVNEA6k/YLTP9MEZfsI/AAAAAAAAOU8/zEB6vLqXU-UzR3lHocOcSPiNMlVuJNklwCLcBGAsYHQ/s1348/free%2Bwebapp%2Bthemes%2Btemplate%2Bnext%2Bjs%2B%25281%2529.png)
 
-**Bold** and _Italic_ and `Code` text
+Home page with light mode
 
-[Link](url) and ![Image](src)
-```
+![free download next js website template themes gratis](https://1.bp.blogspot.com/-pjDg1mS-cJo/YLTP9KRKtSI/AAAAAAAAOVA/BKsVEYR_-BoiE1e8UPkzDTBDIssYHzEjQCLcBGAsYHQ/s1348/free%2Bwebapp%2Bthemes%2Btemplate%2Bnext%2Bjs%2B%25282%2529.png)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Home page article on dark mode
 
-### Jekyll Themes
+![free download next js website template themes gratis](https://1.bp.blogspot.com/-Q_mhc4ziLXE/YLTP9nmwV3I/AAAAAAAAOVE/4hNlVNCmABk6dy-yzUxIBhyCBpKjnxP9wCLcBGAsYHQ/s1349/free%2Bwebapp%2Bthemes%2Btemplate%2Bnext%2Bjs%2B%25284%2529.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/nextdocsthemes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+documentation article non image light mode
 
-### Support or Contact
+![free download next js website template themes gratis](https://1.bp.blogspot.com/-j3xA0R5ABLI/YLTP8qM2j_I/AAAAAAAAOU4/az0k8hQGzDY_rrZdG7b99VZjNwdLNypwgCLcBGAsYHQ/s1349/free%2Bwebapp%2Bthemes%2Btemplate%2Bnext%2Bjs%2B%25283%2529.png)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+documentation non image dark mode
+
+![free download next js website template themes gratis](https://1.bp.blogspot.com/-XEl0OtC8HGc/YLTP-cGdeuI/AAAAAAAAOVM/caMTZ5biTH8iuc-LHH3iwR_sTMCVa07iwCLcBGAsYHQ/s1349/free%2Bwebapp%2Bthemes%2Btemplate%2Bnext%2Bjs%2B%25286%2529.png)
+
+documentation article with image light mode
+
+![free download next js website template themes gratis](https://1.bp.blogspot.com/-_QhJjrcIOSs/YLTP-ChPFLI/AAAAAAAAOVI/4DdBWpLHXtc7rYVue8pIO3h4ELvcuzazACLcBGAsYHQ/s1349/free%2Bwebapp%2Bthemes%2Btemplate%2Bnext%2Bjs%2B%25285%2529.png)
+
+documentation article with image on dark mode
+
+
+------------
+
+How to install ??
+
++ Need node js
++ Download Source code
++ Extract file download on project folder
+
+Now run command using node
++ npm install
++ npm start
+
+open web browser localhost:3000
+
+---------------
+
+Setting website and change article doc, just [read documentation →](https://www.hockeycomputindo.com/2021/05/create-website-using-next-js-free.html)
+
+
